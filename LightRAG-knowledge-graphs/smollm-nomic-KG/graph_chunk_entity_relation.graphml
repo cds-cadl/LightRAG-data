@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;SHIP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">3</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;MY STAFF&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">2</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;THE TEAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The team is portrayed as a group of individuals who have transitioned from passive observers to active participants in a mission, showing a dynamic change in their role."&lt;SEP&gt;"The team is portrayed as a group of individuals who have transitioned from passive observers to active participants in a mission, showing a dynamic change in their role."&lt;SEP&gt;4</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c&lt;SEP&gt;chunk-5b52f34cee5f852f26e08b82a41949d2&lt;SEP&gt;chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;LOCATION&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">4&lt;SEP&gt;5</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;STAFF&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">1</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;JENNIFER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jennifer describes her experiences with Todd and their relationship."&lt;SEP&gt;"Jennifer describes her experiences with Todd regarding his ability to hear and the various ways they have interacted."&lt;SEP&gt;"Jennifer describes their shared experiences and thoughts about Todd's hearing ability."&lt;SEP&gt;"Jennifer has made statements that reflect their relationship with Todd regarding his hearing ability."&lt;SEP&gt;"Jennifer is a member of the team working on writing a book about Todd, showing her role in documenting his life stories."&lt;SEP&gt;"Jennifer is identified as the friend who will be visiting for a few days."&lt;SEP&gt;"Jennifer is portrayed as a key figure in the mission of Operation: Dulce, showing involvement and dedication to her work."&lt;SEP&gt;7&lt;SEP&gt;"Jennifer is depicted as a fun and playful person."&lt;SEP&gt;"Jennifer is shown to be open and honest with Todd."&lt;SEP&gt;"Jennifer shares her thoughts and feelings about Todd's life with her."&lt;SEP&gt;"Jennifer shares positive experiences and joyful moments with Todd."</data>
+      <data key="d2">chunk-5b52f34cee5f852f26e08b82a41949d2&lt;SEP&gt;chunk-9ee8f51cf049cef8b2802eae89e0d024&lt;SEP&gt;chunk-e648f064576a82b1ff9c3ae95471655f&lt;SEP&gt;chunk-7c76d6420bfe43127d0a224d6f9cf1d3&lt;SEP&gt;chunk-9171169dee16f09f4c5705830945867b</data>
+    </node>
+    <node id="&quot;THE DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Device is a technological element that holds significant importance in the narrative."&lt;SEP&gt;"The Device is central to the story, with potential game-changing implications, and is revered by Taylor."&lt;SEP&gt;"The Device is central to the story, with potential game-changing implications, and is revered by Taylor."</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c&lt;SEP&gt;chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </node>
+    <node id="&quot;ALEX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alex and Jordan share a commitment to discovery, which contrasts with Cruz's vision of control and order."&lt;SEP&gt;"Alex and his team are the key figures in Humanity's Response to the unknown intelligence."&lt;SEP&gt;"Alex is the leader of a team attempting first contact with an unknown intelligence, acknowledging the significance of their task."&lt;SEP&gt;"Alex leads the team that might be making the First Contact with the unknown intelligence."&lt;SEP&gt;"Alex is a character who experiences frustration and is observant of the dynamics among other characters."</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c&lt;SEP&gt;chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </node>
+    <node id="&quot;THE TEAM LEADER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">1</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;WOMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">6</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;TODD&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Todd is a person who has been honest about their problems and received respect and admiration from others."&lt;SEP&gt;"Todd is being written about and described in the book, highlighting his contributions to the story."</data>
+      <data key="d2">chunk-1a113a076fa8a68161147e216fa28210&lt;SEP&gt;chunk-9171169dee16f09f4c5705830945867b</data>
+    </node>
+    <node id="&quot;TAYLOR'S AUTHORITY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Taylor does something unexpected. They paused beside Jordan and, for a moment, observed the device with something akin to reverence."&lt;SEP&gt;"Taylor is portrayed with authoritarian certainty and shows a moment of reverence towards a device, indicating a change in perspective."</data>
+      <data key="d2">chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </node>
+    <node id="&quot;SAM RIVERA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sam Rivera is a member of a team working on communicating with an unknown intelligence, showing a mix of awe and anxiety."</data>
+      <data key="d2">chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </node>
+    <node id="&quot;TEAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">3</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;THE CREW&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">1</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;M.E.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The location where they were camping before Todd was adopted is mentioned, providing context for his early life experiences."&lt;SEP&gt;"The organization, M.E., is mentioned as a location where they were camping when Todd was adopted."</data>
+      <data key="d2">chunk-9171169dee16f09f4c5705830945867b</data>
+    </node>
+    <node id="&quot;JORDAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jordan is affected by Taylor's authoritarian certainty and observes changes in Taylor's attitude towards the device."&lt;SEP&gt;"Jordan shares a commitment to discovery and has a significant interaction with Taylor regarding the device."&lt;SEP&gt;"Jordan's commitment to discovery refers to an idea or theory about something, often driven by curiosity and intellectual interest."&lt;SEP&gt;"Jordan shares a commitment to discovery and has a significant interaction with Taylor regarding a device."</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c&lt;SEP&gt;chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </node>
+    <node id="&quot;INTELLIGENCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Intelligence here refers to an unknown entity capable of writing its own rules and learning to communicate."</data>
+      <data key="d2">chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </node>
+    <node id="&quot;MARTHA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Martha is identified as the cat that accompanied the user in their bed."</data>
+      <data key="d2">chunk-7c76d6420bfe43127d0a224d6f9cf1d3</data>
+    </node>
+    <node id="&quot;CAPTAIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">2</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;ADOPTION AGENCY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The organization responsible for facilitating the adoption process is mentioned."</data>
+      <data key="d2">chunk-9171169dee16f09f4c5705830945867b</data>
+    </node>
+    <node id="&quot;WASHINGTON&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Washington is a location where communications are being received, indicating its importance in the decision-making process."&lt;SEP&gt;"Washington is the location where communications are being received, indicating its importance in the decision-making process."</data>
+      <data key="d2">chunk-5b52f34cee5f852f26e08b82a41949d2</data>
+    </node>
+    <node id="&quot;CONTROL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The concept of Control refers to the ability to manage or govern, which is challenged by an intelligence that writes its own rules."</data>
+      <data key="d2">chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </node>
+    <node id="&quot;ME&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">3</data>
+      <data key="d2">chunk-9ee8f51cf049cef8b2802eae89e0d024</data>
+    </node>
+    <node id="&quot;OPERATION: DULCE&quot;">
+      <data key="d0">"MISSION"</data>
+      <data key="d1">"Operation: Dulce is described as a mission that has evolved to interact and prepare, indicating a significant shift in objectives and activities."&lt;SEP&gt;"Operation: Dulce is portrayed as a significant event that has brought about a new tone to the team's interactions and activities."&lt;SEP&gt;"Operation: Dulce is described as a mission that has evolved to interact and prepare, showing a dynamic change in their role."</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c&lt;SEP&gt;chunk-5b52f34cee5f852f26e08b82a41949d2</data>
+    </node>
+    <node id="&quot;FAMILY MEMBERS&quot;">
+      <data key="d2">chunk-9171169dee16f09f4c5705830945867b</data>
+      <data key="d1">"Jennifer's family plays a role in the story, including her parents and their involvement in the adoption of Todd."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;JENNIFER'S PARENTS&quot;">
+      <data key="d2">chunk-9171169dee16f09f4c5705830945867b</data>
+      <data key="d1">"Jennifer's family plays a role in the story, including her parents and their involvement in the adoption of Todd."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CRUZ&quot;">
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c&lt;SEP&gt;chunk-27fc240c7f663f8c8880d25426271f86</data>
+      <data key="d1">"Cruz is associated with a vision of control and order, influencing the dynamics among other characters."&lt;SEP&gt;"Cruz's vision of control and order contrasts with the shared commitment to discovery by Alex and Jordan."</data>
+      <data key="d0">"PERSON"</data>
+    </node>
+    <node id="&quot;TARGET_ENTITY&quot;">
+      <data key="d2">chunk-27fc240c7f663f8c8880d25426271f86</data>
+      <data key="d1">"Cruz's vision of control and order contrasts with the shared commitment to discovery by Alex and Jordan."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;TAYLOR&quot;">
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c&lt;SEP&gt;chunk-27fc240c7f663f8c8880d25426271f86</data>
+      <data key="d1">"Alex is affected by Taylor's authoritarian certainty and observes changes in Taylor's attitude towards the device."&lt;SEP&gt;"Taylor is portrayed with authoritarian certainty and shows a moment of reverence towards a device, indicating a change in perspective.</data>
+      <data key="d0">"PERSON"</data>
+    </node>
+    <node id="&quot;THE WASHINGTON TIMES BUILDING&quot;">
+      <data key="d0">"BUILDING"</data>
+      <data key="d1">"The Washington Times building is an office building in the United States city of Washington, D.C., which served as the headquarters for The Washington Post and The Washington Times."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;HULU&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Hulu is an American digital video-on-demand media streaming service headquartered in Los Angeles, California and operated by the Walt Disney Company (which also owns the majority of its shares)."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;THE WASHINGTON TIMES&quot;">
+      <data key="d0">"NEWSPAPER"</data>
+      <data key="d1">"The Washington Times is an American daily newspaper published since 1983 by the Washington Post Company in Washington D.C."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;FAME AND FORTUNE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The pursuit of fame and fortune through dishonesty and deceit has led many to seek shortcuts to success, but honesty remains the key to achieving real success in life."</data>
+      <data key="d2">chunk-1a113a076fa8a68161147e216fa28210</data>
+    </node>
+    <node id="&quot;TIKTOK FOR BUSINESS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"TikTok For Business is a premium version of TikTok that allows brands to create, promote, and engage with short-form videos on the platform."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;MICROSOFT WORD&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Microsoft Office Word for Windows is a text editor developed by Microsoft as part of the Microsoft Office system."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;MICROSOFT OFFICE&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Microsoft Office is a software suite developed, marketed, and sold by Microsoft for Windows as part of the Microsoft Office system"&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;JOHN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">He is a person who was very helpful in introducing Alex to the school experience at School 84, allowing them to play hockey together.&lt;SEP&gt;He met Alex at School 84 and they had a conversation about playing hockey, leading to Alex wanting to play the goalie.</data>
+      <data key="d2">chunk-575ce527fef6cf8d0addcdfc74cc991b</data>
+    </node>
+    <node id="&quot;THE NEW YORK TIMES BUILDING&quot;">
+      <data key="d0">"BUILDING"</data>
+      <data key="d1">"The New York Times Building is an office building in New York City which has served as the home of The New York Times since 1940."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;TIKTOK&quot;">
+      <data key="d0">"COMPANY"</data>
+      <data key="d1">"TikTok, Inc. is an American short-form video-sharing social media platform headquartered in Beijing."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;AMAZON&quot;">
+      <data key="d0">"COMPANY"</data>
+      <data key="d1">"Amazon.com, Inc. is an American multinational technology company that specializes in e-commerce, cloud computing, artificial intelligence, web services and digital media."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;SCHOOL 84&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">This organization allowed Alex and John to participate in summer activities like playing hockey with other kids during their stay.</data>
+      <data key="d2">chunk-575ce527fef6cf8d0addcdfc74cc991b</data>
+    </node>
+    <node id="&quot;WWE UNIVERSE&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"WWE Universe, commonly known as WWE, is a professional wrestling company headquartered in Charlotte, North Carolina, USA."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;THE WASHINGTON TIMES MEDIA GROUP&quot;">
+      <data key="d0">"COMPANY"</data>
+      <data key="d1">"The Washington Times Media Group is the publisher of The Washington Times."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;MICROSOFT CORPORATION&quot;">
+      <data key="d0">"COMPANY"</data>
+      <data key="d1">"Microsoft Corporation is an American multinational computer technology company headquartered in Redmond, Washington, USA."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;DARK PATHS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The desire for quick fixes and easy answers can lead people down dark paths of dishonesty and deception."</data>
+      <data key="d2">chunk-1a113a076fa8a68161147e216fa28210</data>
+    </node>
+    <node id="&quot;THE WASHINGTON POST COMPANY BUILDING&quot;">
+      <data key="d0">"BUILDING"</data>
+      <data key="d1">"The Washington Post Company building is a high-rise office tower located on Connecticut Avenue NW, in Washington D.C., which has served as the headquarters for The Washington Post since 1952."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;AMAZON BOOKS&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Amazon Books is an online bookstore operated by Amazon.com, Inc., an American multinational technology company headquartered in Seattle."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;THE NEW YORK TIMES&quot;">
+      <data key="d0">"NEWSPAPER"</data>
+      <data key="d1">"The New York Times (abbreviated as "The NYT") is an American daily newspaper first published on February 19, 1851 in New York City."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;WWE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"World Wrestling Entertainment, Inc., commonly known as WWE or the WWE Universe, is a professional wrestling company based in Charlotte, North Carolina, United States."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;COURAGE AND SELF-DISCIPLINE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Standing up for what's right even when it's hard or unpopular requires courage and self-discipline, but is ultimately worth the effort."</data>
+      <data key="d2">chunk-1a113a076fa8a68161147e216fa28210</data>
+    </node>
+    <node id="&quot;HONESTY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Being honest is essential for gaining people's respect, trust, and admiration, even if it's hard to achieve at times."&lt;SEP&gt;"Being honest is what sets us apart from others who seek fame and fortune through dishonesty and deceit."</data>
+      <data key="d2">chunk-1a113a076fa8a68161147e216fa28210</data>
+    </node>
+    <node id="&quot;MICROSOFT AZURE&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Microsoft Azure is a cloud computing platform owned and marketed by Microsoft as part of its broader portfolio of products in the Microsoft Cloud and Enterprise Suite."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;MICROSOFT OFFICE 365&quot;">
+      <data key="d0">"PRODUCT"</data>
+      <data key="d1">"Microsoft Office 365 is a cloud-based suite of productivity applications owned and marketed by Microsoft."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;THE WASHINGTON POST COMPANY&quot;">
+      <data key="d0">"COMPANY"</data>
+      <data key="d1">"The Washington Post Company is a U.S. media conglomerate, which owns The Washington Post and other print publications as well as digital assets including the Washington Times."&gt;</data>
+      <data key="d2">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </node>
+    <node id="&quot;AS WE ALL KNOW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"As we all know is a common phrase used in everyday conversations, but it has a deeper meaning when talking about the importance of honesty."</data>
+      <data key="d2">chunk-1a113a076fa8a68161147e216fa28210</data>
+    </node>
+    <node id="&quot;THE TRUTH&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The truth remains key in achieving success and happiness, even in the face of adversity or when seeking shortcuts to fame and fortune."</data>
+      <data key="d2">chunk-1a113a076fa8a68161147e216fa28210</data>
+    </node>
+    <edge source="&quot;JENNIFER&quot;" target="&quot;TODD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jennifer offers to help Todd with the writing of his book, showing her support and collaboration."</data>
+      <data key="d5">"writing process, friendship"</data>
+      <data key="d6">chunk-9171169dee16f09f4c5705830945867b</data>
+    </edge>
+    <edge source="&quot;THE DEVICE&quot;" target="&quot;TAYLOR&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Taylor shows reverence towards the device, indicating its importance and potential impact."</data>
+      <data key="d5">"reverence, technological significance"</data>
+      <data key="d6">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </edge>
+    <edge source="&quot;ALEX&quot;" target="&quot;TAYLOR&quot;">
+      <data key="d3">18.0</data>
+      <data key="d4">"Alex and Taylor interact directly regarding the device, leading to a moment of mutual respect and an uneasy truce."&lt;SEP&gt;"Alex is affected by Taylor's authoritarian certainty and observes changes in Taylor's attitude towards the device."</data>
+      <data key="d5">"conflict resolution, mutual respect"&lt;SEP&gt;"power dynamics, perspective shift"&lt;SEP&gt;1</data>
+      <data key="d6">chunk-5c1e27a864378c1223a3b958e75f526c&lt;SEP&gt;chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </edge>
+    <edge source="&quot;ALEX&quot;" target="&quot;JORDAN&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Alex and Jordan share a commitment to discovery, which contrasts with Cruz's vision of control and order."</data>
+      <data key="d5">"shared goals, rebellion"</data>
+      <data key="d6">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </edge>
+    <edge source="&quot;SAM RIVERA&quot;" target="&quot;INTELLIGENCE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Sam Rivera is directly involved in the process of learning to communicate with the unknown intelligence."</data>
+      <data key="d5">"communication, learning process"</data>
+      <data key="d6">chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </edge>
+    <edge source="&quot;JORDAN&quot;" target="&quot;CRUZ&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Jordan's commitment to discovery is in rebellion against Cruz's vision of control and order."</data>
+      <data key="d5">"ideological conflict, rebellion"</data>
+      <data key="d6">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </edge>
+    <edge source="&quot;JORDAN&quot;" target="&quot;TAYLOR&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Taylor and Jordan interact directly regarding the device, leading to a moment of mutual respect and an uneasy truce."</data>
+      <data key="d5">"conflict resolution, mutual respect"</data>
+      <data key="d6">chunk-5c1e27a864378c1223a3b958e75f526c</data>
+    </edge>
+    <edge source="&quot;FAMILY MEMBERS&quot;" target="&quot;JENNIFER'S PARENTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Jennifer's family plays a role in the story, including her parents and their involvement in the adoption of Todd."</data>
+      <data key="d5">"personal relationships"</data>
+      <data key="d6">chunk-9171169dee16f09f4c5705830945867b</data>
+    </edge>
+    <edge source="&quot;CRUZ&quot;" target="&quot;TARGET_ENTITY&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">"Cruz's vision of control and order contrasts with the shared commitment to discovery by Alex and Jordan."</data>
+      <data key="d5">2</data>
+      <data key="d6">chunk-27fc240c7f663f8c8880d25426271f86</data>
+    </edge>
+  </graph>
+</graphml>

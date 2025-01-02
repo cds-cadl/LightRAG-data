@@ -1,0 +1,42 @@
+{
+  "naive": {
+    "2609e96b8449daff71310f0316a10f55": {
+      "return": "Based on the provided text, some of the top themes in this story include:\n\n- Family: The story highlights the strong bond between Todd's parents and his older siblings (Sara and Chuck). It also shows how they come together to care for him despite their own busy lives.\n\n- Support System: Todd's family demonstrates a willingness to support each other, whether it be with meals, help changing diapers, or being present during difficult times. This creates a cohesive support system that helps Todd navigate life challenges.\n\n- Acceptance and Joy: The story conveys the joy and warmth of this family as they enjoy each other's company while caring for their loved one. Despite potential difficulties, they maintain a positive attitude and find happiness in their relationship with each other.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the top themes in this story?"
+    }
+  },
+  "local": {
+    "dff15171f51b3820de972d60088a9261": {
+      "return": "Based on the provided text, some of the top themes in this story include:\n\n1. **Hope and resilience**: The protagonist finds hope in their life despite facing various challenges related to disabilities. They show resilience by not giving up despite their physical limitations and emotional struggles.\n\n2. **Acknowledging the importance of others in one's life**: The protagonist mentions that they had a good friend named Jennifer who played an important role in their life, showing how crucial it is to have positive relationships in our lives.\n\n3. **The power of friendship and support**: The story highlights the significance of having supportive friends like Jennifer during difficult times, especially when faced with personal challenges or difficulties such as dealing with a loved one's disability.\n\n4. **Self-improvement and growth**: The protagonist shows an interest in improving themselves by considering adopting another child despite their own disabilities. This theme indicates that they are always looking for ways to grow and become a better person.\n\n5. **Embracing differences and finding common ground**: The story portrays a positive relationship between the protagonist and Jennifer, where both of them appreciate each other's differences and find common ground in their shared experiences as people with disabilities or loved ones affected by disabilities.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the top themes in this story?"
+    }
+  },
+  "global": {
+    "7a8741c8e7bd22edb3898114fe5258c1": {
+      "return": "The story touches on several key themes, including:\n\n1. **Caring for a new family member**: The story highlights the importance of adapting to the needs of an adopted child and providing love and support despite any challenges that may arise. This theme is evident in Jennifer's willingness to help Todd with his writing project and her role as a caregiver during their time together.\n\n2. **New beginnings and acceptance**: The narrative emphasizes the significance of new beginnings, such as when the family takes on Todd as one of their own after learning about him from an adoption agency. This theme is evident in how the family accepts Todd into their lives despite not knowing much about his past or his disability at first.\n\n3. **The value of human connection and relationships**: The story showcases the importance of forming strong bonds with others, particularly those who have gone through similar experiences, such as Jennifer's relationship with her husband Alex and her interactions with Todd. This theme is evident in the way everyone works together to support and care for one another during their time together.\n\n4. **Adapting to change and uncertainty**: The narrative touches on the challenges of adapting to new circumstances, such as the power outages that occur due to the storm, which force the family to rely on each other's strengths and resources. This theme is evident in how the family adapts to the situation and finds ways to cope with the unexpected changes.\n\n5. **The importance of storytelling and preserving memories**: The story highlights the significance of capturing personal stories and memories through writing, as seen in Jennifer's decision to write about her experiences and Todd's life. This theme is evident in how the family shares their stories and looks back on their time together with fond memories.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the top themes in this story?"
+    }
+  },
+  "hybrid": {
+    "03cda9d99e173e060ac161e4e446555d": {
+      "return": "Based on the data provided, some of the key themes present in the story include:\n\n1. **Adoption**: The story centers around the adoption process for Todd by Jennifer's family and its aftermath. This theme explores the journey of a child finding their forever home and the complexities involved in the adoption process.\n\n2. **Family bonding**: Throughout the narrative, there are various moments highlighting family bonding, such as Jennifer helping Todd with his first night, playing with him during the day, and working together to care for him when he was adopted. This theme emphasizes the importance of close relationships within families.\n\n3. **Communication challenges**: The story touches on communication issues that arise between Jennifer and her husband while dealing with Todd's needs and personalities. This theme illustrates how communication can be a challenge in family life, particularly when navigating complex situations such as adoption.\n\n4. **Caring and commitment**: Another key theme is the dedication shown by Jennifer to caring for Todd. The story highlights her willingness to go above and beyond to provide him with love and support, demonstrating an admirable level of commitment towards his well-being.\n\n5. **Hope and resilience**: As the adoption process progresses, the story also touches on the themes of hope and resilience. Despite facing unexpected challenges, Jennifer remains committed to providing a loving home for Todd, showcasing her ability to adapt and navigate difficult situations with determination and positivity.\n\nThese themes are woven throughout the narrative, providing insight into the complexities of family life, adoption, and personal relationships.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "What are the top themes in this story?"
+    }
+  }
+}
